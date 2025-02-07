@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shakeeb;
 - 👀 I’m interested in web development;
 - 🌱 I’m currently learning js,css,html;
-- 💞️ I’m looking to collaborate on webdevelopment project;
+- 🤝🏻 I’m looking to collaborate on webdevelopment project;
 - 📫 whatsapp me 8897151709;
 
 <!---
